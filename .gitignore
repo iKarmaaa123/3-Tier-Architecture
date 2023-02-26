@@ -5,3 +5,4 @@ private-key/
 *.terraform
 .terraform.lock.hcl
 c9-nullresource-provisioners.tf
+*.tfstate
